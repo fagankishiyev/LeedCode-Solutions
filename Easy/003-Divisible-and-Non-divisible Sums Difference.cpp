@@ -1,4 +1,4 @@
-/*
+ /*
 LeetCode #3 - Divisible and Non-Divisible Sums Difference
 link: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
 
