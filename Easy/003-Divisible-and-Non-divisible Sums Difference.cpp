@@ -7,7 +7,6 @@ Output: 19
 */
 
 #include <iostream>
-#include <vector>
 using namespace std;
 
 class Solution {
