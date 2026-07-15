@@ -1,5 +1,5 @@
 /*
-LeetCode #12 - Concatenate Array With Reverse
+LeetCode #12 - jewels-and-stones
 link:https://leetcode.com/problems/jewels-and-stones/description/
 
 
