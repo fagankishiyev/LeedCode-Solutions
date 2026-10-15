@@ -1,5 +1,5 @@
 /*
-LeetCode #26 - Search Insert Position
+LeetCode #26 - Search Insert Position 
 link:https://leetcode.com/problems/search-insert-position/description/
 
 Input: nums = [1,3,5,6], target = 5
@@ -8,6 +8,9 @@ Explanation: The target 5 exists at index 2.
 */
 
 
+
+#include <vector>
+using namespace std;
 
 class Solution {
 public:
