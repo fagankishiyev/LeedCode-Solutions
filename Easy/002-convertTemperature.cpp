@@ -6,7 +6,9 @@ Input: celsius = 36.50
 Output: [309.65000,97.70000]
 */
 
-
+#include <iostream>
+#include <vector>
+using namespace std;
 
 class Solution {
 public:
